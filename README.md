@@ -8,7 +8,7 @@ Getting Started
 ## To get started with this repository, follow these steps:
 1. Clone the repository into your working directory:
 ```
-  git clone https://github.com/Waste-arch/CRUD-REST-API
+git clone https://github.com/Waste-arch/CRUD-REST-API
 ```
 2. Navigate to the cloned repository:
 ```
